@@ -57,7 +57,7 @@ COCODIR/
         dn_box_noise_scale=1.0
 
 
-## Evalate
+## Evaluate
 
 
 Perform the command below.
