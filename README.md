@@ -23,9 +23,9 @@
 
 1.RSOD: https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
 
-2.NWPU-VHR-10: https://github.com/Gaoshuaikun/NWPU-VHR-10
+2.NWPU-VHR-10: https://github.com/Wufang2/NWPU_VHR-10/tree/main
 
-3.PASCAL VOC2007: http://host.robots.ox.ac.uk/pascal/VOC/
+3.PASCAL VOC2007: http://host.robots.ox.ac.uk/pascal/VOC/voc2007/index.html
 
 
 
